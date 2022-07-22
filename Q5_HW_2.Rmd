@@ -1,11 +1,4 @@
----
-title: "HW_2_Q5"
-author: "Urjit And Tuhina"
-date: "10/29/2021"
-output: html_document
----
 
-```{r setup, include=FALSE, warning = FALSE}
 library(ROSE)
 library(ggplot2)
 library(kableExtra)
